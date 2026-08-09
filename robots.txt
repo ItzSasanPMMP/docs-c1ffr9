@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ifn2bq.tuagentesoat.top/sitemap.xml
